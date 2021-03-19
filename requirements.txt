@@ -1,0 +1,5 @@
+Pillow==8.1.2
+pandas==1.2.3
+numpy
+colour-science==0.3.16
+opencv-python
